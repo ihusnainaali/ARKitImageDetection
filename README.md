@@ -1,4 +1,4 @@
-# ARKitImageDetectionTutorial
+# ARKitImageDetection
 ARKit image detection tutorial code
 
 <p align="center">
