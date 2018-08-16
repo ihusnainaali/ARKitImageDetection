@@ -1,5 +1,5 @@
 # ARKitImageDetectionTutorial
-ARKit image detection tutorial code for [Medium article](https://medium.com/@ivannesterenko/arkit-tutorial-image-recognition-and-virtual-content-transform-91484ceaf5d5).
+ARKit image detection tutorial code
 
 <p align="center">
   <img src="https://media.giphy.com/media/5nkI5dJEyuAUdGfH78/giphy.gif">
